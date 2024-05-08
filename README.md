@@ -14,6 +14,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VChoukwale&repo=github-readme-stats)](https://github.com/VChoukwale/github-readme-stats)
 
-![Vaishnavi's's GitHub stats](https://github-readme-stats.vercel.app/api?username=VChoukwale&theme=blue-green&show_icons=true)
+[![Vaishnavi's's GitHub stats](https://github-readme-stats.vercel.app/api?username=VChoukwale&theme=blue-green&show_icons=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vaish&theme=blue-green)](https://git.io/streak-stats)
