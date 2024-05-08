@@ -10,7 +10,7 @@
 - 😄 Pronouns: She/Her
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VChoukwale&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VChoukwale&layout=compact&theme=dark)
 
 <!-- [![Vaishnavi's's GitHub stats](https://github-readme-stats.vercel.app/api?username=VChoukwale&theme=blue-green&show_icons=true) -->
 
