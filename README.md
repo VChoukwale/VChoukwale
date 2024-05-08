@@ -1,6 +1,6 @@
-### Hi👋, I'm Vaishnavi Choukwale
+# Hi👋, I'm Vaishnavi Choukwale
 
-# A Passionate Software Developer from the United States
+### A Passionate Software Developer from the United States
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/Vchoukwale/github-profile-trophy)
 
 - 🔭 I’m currently working on building software in Python
