@@ -1,12 +1,12 @@
 # Hi👋, I'm Vaishnavi Choukwale
 
-### A Passionate Software Developer from the United States
+### A Passionate Software Engineer from the United States
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/Vchoukwale/github-profile-trophy)
 
 - 🔭 I’m currently working on building software in Python
 - 🌱 I’m currently learning Python, DSA and Cloud Computing
-- 👯 I’m looking for Summer/Fall internships in Software Development and DevOps domains
-- 📫 How to reach me: choukwale.v@northeastern.edu & https://www.linkedin.com/in/vaishnavi-choukwale/
+- 👯 I’m looking for full-time roles in Software, Cloud, Analytics and consulting domains
+- 📫 How to reach me: choukwale.v@northeastern.edu & https://www.linkedin.com/in/choukwalev/
 - 😄 Pronouns: She/Her
 
 
